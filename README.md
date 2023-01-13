@@ -3,5 +3,6 @@
 
 # About me 😎
 
-Lorem ipsum
-
+🚀 Sci-Fi lover
+🚴 Loves cycling 
+🧑🏻‍💻 Passionate about game dev'
