@@ -4,5 +4,7 @@
 # About me 😎
 
 🚀 Sci-Fi lover
-🚴 Loves cycling 
+
+🚴 Loves cycling
+
 🧑🏻‍💻 Passionate about game dev'
